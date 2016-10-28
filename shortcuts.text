@@ -1,0 +1,28 @@
+Long way: 
+npm install —save react
+npm install —save react-dom
+
+Shortcut:
+npm i -S react react-dom
+
+** installs both ‘react’ and ‘react-dom’ **
+** also, ‘i’ i short for install, and    **
+** ‘-S’ is short for —-save              **
+
+
+Long way:
+npm install —-save-dev
+
+Shortcut: 
+npm i -D <dependency>
+
+** the ‘-D’ is short for —save-dev       **
+
+
+
+STATE: Mutable (changable)
+At parent level. Passing down information in form or state. 
+
+
+PROP: Immutable (Unchangable)
+When children inherit the data or method it always comes in form of a prop
